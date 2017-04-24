@@ -8,7 +8,7 @@ import java.util.Scanner;
 import static org.launchcode.java.restaurant.MenuItem.categories;
 
 /**
- * Created by Jen on 4/23/2017.
+ * Created by Jen Kocher on 4/23/2017.
  */
 
 

@@ -5,7 +5,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 /**
- * Created by Jen on 4/22/2017.
+ * Created by Jen Kocher on 4/22/2017.
  */
 
 public class Menu {

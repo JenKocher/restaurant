@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by Jen on 4/22/2017.
+ * Created by Jen Kocher on 4/22/2017.
  */
 public class MenuItem {
 
