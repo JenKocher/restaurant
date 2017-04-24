@@ -100,8 +100,7 @@ public class Restaurant {
                         System.out.println("Menu is empty.\n");
                     } else {
                             for (int i=0;i<menu.getMenuItems().size();i++){
-                                System.out.println(menu.getMenuItems().get(i).toString()
-                                );
+                                System.out.println(menu.getMenuItems().get(i).toString());
                             }
                     }
 
